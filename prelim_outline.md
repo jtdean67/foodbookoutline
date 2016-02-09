@@ -1,4 +1,4 @@
-# 1. The Manhattan Problem: No "ethnic food" quite right
+# 1. The Manhattan Problem and the Ratatouille effect
 
 ### Manhattan considered to have the "best" food in the world
 
@@ -13,13 +13,13 @@ Nothing is considered authentic by the people who should know
 + The Italians love the Chinese food
 + The Chinese love the French food
 
-# 2. The Ratatouille effect: replication is authenticity
+### Authenticity is replication
 
-### People want an identical culinary experience to what they remember eating in the old country
+#### People want an identical culinary experience to what they remember eating in the old country
 
 Pixar's _Ratatouille_, when the harsh reviewer is taken back to his childhood by a single dish
 
-### Things are considered "not right" if they deviate from that memory
+#### Things are considered "not right" if they deviate from that memory
 
 Slight changes in flavor, texture, taste lead to judgment as "close but not quite there"
 
