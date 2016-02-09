@@ -13,7 +13,7 @@ Nothing is considered authentic by the people who should know
 + The Italians love the Chinese food
 + The Chinese love the French food
 
-# 1. The Ratatouille effect: replication is authenticity
+# 2. The Ratatouille effect: replication is authenticity
 
 ### People want an identical culinary experience to what they remember eating in the old country
 
@@ -23,22 +23,7 @@ Pixar's "Ratatouille," when the harsh reviewer is taken back to his childhood by
 
 Slight changes in flavor, texture, taste lead to judgment as "close but not quite there"
 
-### Is replication even physically possible? 
-
-+ different ingredients
-+ different climate
-
-# Replication vs. local sourcing
-
-### Almost invariably, replication requires intercontinental transport
-
-1. Unsound from an environmental perspective
-
-2. Expensive
-
-3. Quality always suffers from transport
-
-# Transplanted cuisine: an example from Chinese food
+# 3. Transplanted cuisine: an example from Chinese food
 
 China is a country of 1.3 billion people, so it makes as much sense to talk of 
 "Chinese" cuisine as it does of "white people" food. 
@@ -54,4 +39,17 @@ Chinatowns started by immigrants from Canton, later waves from different provinc
 #### Cashew Chicken, Kansas City, 1970s
 
 #### Ristorante Cinese, with traditional Italian serving structure of noodles first, then meat, with no parallels in actual Chinese cuisine
+
+# 4. Replication vs. local sourcing
+
+### Is replication even physically possible? 
+
++ different ingredients
++ different climate
+
+### Almost invariably, replication requires intercontinental transport
+
++ Unsound from an environmental perspective
++ Expensive
++ Quality always suffers from transport
 
