@@ -1,16 +1,13 @@
 # The Manhattan Problem: No "ethnic food" is quite right
 
-## Manhattan is considered by its denizens to have the best food in the world
+### Manhattan is considered by its denizens to have the best food in the world
 
-### Largely agreed that it has probably the widest variety of food from different 
-cultures around the world. But is (any of) it really good?
+Largely agreed that it has probably the widest variety of food from different cultures around the world. But is (any of) it really good?
 
 ### Everyone thinks that the "ethnic" food of other cultures is great, 
 but doesn't think their own cuisine is quite right.
 
-### Nothing is considered authentic by the people who should know
-
-## Standard of authenticity is replication
+Nothing is considered authentic by the people who should know
 
 # The Ratatouille effect: replication is authenticity
 
