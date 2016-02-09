@@ -30,15 +30,15 @@ China is a country of 1.3 billion people, so it makes as much sense to talk of
 
 ### Food eaten by people who immigrated
 
-#### Heavy bias in particular regional cuisine, corresponding to waves of immigration
+Heavy bias in particular regional cuisine, corresponding to waves of immigration
 
 Chinatowns started by immigrants from Canton, later waves from different provinces
 
-### Adaptation to local tastes for commercial reasons, in running a restaurant
+### Adaptation to local tastes for commercial reasons, in a restaurant setting
 
-#### Cashew Chicken, Kansas City, 1970s
++ Cashew Chicken, Kansas City, 1970s
 
-#### Ristorante Cinese, with traditional Italian serving structure of noodles first, then meat, with no parallels in actual Chinese cuisine
++ Ristorante Cinese, with traditional Italian serving structure of noodles first, then meat, with no parallels in actual Chinese cuisine
 
 # 4. Replication vs. local sourcing
 
