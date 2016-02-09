@@ -17,7 +17,7 @@ Nothing is considered authentic by the people who should know
 
 ### People want an identical culinary experience to what they remember eating in the old country
 
-Pixar's "Ratatouille," when the harsh reviewer is taken back to his childhood by a single dish
+Pixar's _Ratatouille_, when the harsh reviewer is taken back to his childhood by a single dish
 
 ### Things are considered "not right" if they deviate from that memory
 
