@@ -8,10 +8,10 @@ Largely agreed that it has probably the widest variety of food from different cu
 
 Nothing is considered authentic by the people who should know
 
-The French love the Japanese food   
-The Japanese love the Italian food
-The Italians love the Chinese food
-The Chinese love the French food
++ The French love the Japanese food   
++ The Japanese love the Italian food
++ The Italians love the Chinese food
++ The Chinese love the French food
 
 # The Ratatouille effect: replication is authenticity
 
@@ -22,7 +22,10 @@ Pixar's "Ratatouille," when the harsh reviewer is taken back to his childhood by
 ### Things are considered "not right" if they deviate in flavor or texture from what they 
 are accustomed
 
-### Is replication impossible, physically, given different ingredients, climate, etc.?
+### Is replication even physically possible? 
+
++ different ingredients
++ different climate
 
 # Replication vs. local sourcing
 
