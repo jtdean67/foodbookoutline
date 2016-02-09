@@ -25,10 +25,16 @@ Slight changes in flavor, texture, taste lead to judgment as "close but not quit
 
 # 3. Transplanted cuisine: an example from Chinese food
 
+### Most important transplanted cuisine today
+
+Chinese diaspora fastest growing immigrant group in America, wealthier and more educated than average 
+
+Half the world's population lives within a 4-hour flight of Hong Kong
+
+### Food brought by people who immigrated from China
+
 China is a country of 1.3 billion people, so it makes as much sense to talk of 
 "Chinese" cuisine as it does of "white people" food. 
-
-### Food eaten by people who immigrated
 
 Heavy bias in particular regional cuisine, corresponding to waves of immigration
 
@@ -39,6 +45,22 @@ Chinatowns started by immigrants from Canton, later waves from different provinc
 + Cashew Chicken, Kansas City, 1970s
 
 + Ristorante Cinese, with traditional Italian serving structure of noodles first, then meat, with no parallels in actual Chinese cuisine
+
+### Low cost trap limits quality
+
++ Not possible to have a fine-dining experience. 
+
++ No appetite for expensive Chinese food
+
++ Only acceptable fancy Asian food is Japanese ($400+ sushi in NYC). Why?
+
+### Generalized problems are faced by other major cultures around the world
+
++ India also a very populous, large country with wealth
+
++ Next in population are Indonesia, Brazil, Pakistan, Nigeria and Bangladesh
+
++ Half of the world's population can't get a fancy meal based on their own food, in the West
 
 # 4. Replication vs. local sourcing
 
