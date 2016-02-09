@@ -1,3 +1,5 @@
+## Part I: Conceptual foundation
+
 # 1. The Manhattan Problem and the Ratatouille effect
 
 ### Manhattan considered to have the "best" food in the world
@@ -202,5 +204,6 @@ Win-win: no compromises in terms of environmental sustainability or quality
 
 No free lunch, though: may require more expense, time, or other costs
 
+## Part II: Examples
 
 
