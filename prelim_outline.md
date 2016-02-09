@@ -204,6 +204,72 @@ Win-win: no compromises in terms of environmental sustainability or quality
 
 No free lunch, though: may require more expense, time, or other costs
 
-## Part II: Examples
+### Not (cold) fusion
+
+Not suggesting a grab-bag of techniques and flavors to create something unrecognizable
+
+Not at all "fusion", or trying to make a Cantonese-inspired burger or pizza
+
+Want food that is recognizably Cantonese, even if made with local ingredients
+
+1. Stir friend lobster with ginger and garlic. Homarus Americanus does not exist in the Pacific
+Yet all Cantonese would recognize it as a very traditional preparation, just with a slightly different organism.
+
+2. Dungeness Crab: price in British Columbia is hugely jacked up because most of the catch goes to Asia
+
+## Part II: Worked examples
+
+# 6. Implementating Cantonese cuisine in the New England ecosystem
+
+Not simply recipes to be followed, but telling the story of the dishes from start to finish
+
+### Each dish class description / chapter includes:
+
+1. An important main ingredient that has an interesting aspect in New England
+
++ Unique, local connection, based on new technology or techniques to protect the environment and increase flavor and taste
+
++ The complete story, start to finish, of how that ingredient starts in the ocean, field, etc. and gets to the kitchen, and the people involved
+
+2. A novel technique to further bring out its natural flavor
+
++ Complete description of the interesting or non-obvious scientific principles behind new techniques, and how they improve upon traditional methods
+
++ where relevant, an explanation of new apparatus or equipment needed
+
+
+# 7. Sous-vide shellfish appetizer with ginger and scallions
+
+### Ingredient 1: Diver scallop, wild
+
+Sustainably harvested by hand, and taken alive. Processed that day, so that large scallops retain sweetness
+
+New England's scallop fishery is one of its most profitable, and is sustainable; vs. dredging, bay scallops,
+nitrates to increase weight, fake skate wing cutouts.
+
+### Ingredient 2: White shrimp, aquaculture
+
+Sky8 Shrimp Farm, Stoughton, MA
+Indoor, land-based shrimp farm (miles from the ocean); completely sustainable and friendly for the environment (recirculating water)
+Year-round availability, no antibiotics or hormones as in many sian shrimp farms 
+
+### Technique: Sous vide
+
+Scallops / shrimp at 50 deg C, 20 minutes
+
+Julienne ginger and scallions; heat oil to smoke point (200+ deg C), then pour over ginger / scallions resting on seafood
+
+# 8. Stir-fried vegetables
+
+### Ingredient 1: Bok Choy, hydroponic / LED
+
+Cornerstalk Farm, Boston, MA
+Uses LED lighting and hydroponics with recirculation, to grow all kinds of greens in shipping containers in East Boston
+Future of urban farming, with low requirements for water and land; can be situated anywhere. Year-round availability
+LED lighting drops power consumption, by allowing optimization of light colors that are used by plants to grow
+(as opposed to broad-spectrum lighting, where most of the energy ends up as waste heat)
+
+### Ingredient 2: Red bell peppers (Capsicum); seasonally available in late summer
+
 
 
