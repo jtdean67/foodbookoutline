@@ -1,13 +1,17 @@
 # The Manhattan Problem: No "ethnic food" quite right
 
-### Manhattan is considered by its denizens to have the best food in the world
+### Manhattan considered to have the "best" food in the world
 
 Largely agreed that it has probably the widest variety of food from different cultures around the world. But is (any of) it really good?
 
-### Everyone thinks that the "ethnic" food of other cultures is great, 
-but doesn't think their own cuisine is quite right.
+### Everyone thinks "ethnic" food of other cultures is great, but own cuisine never quite right.
 
 Nothing is considered authentic by the people who should know
+
+The French love the Japanese food   
+The Japanese love the Italian food
+The Italians love the Chinese food
+The Chinese love the French food
 
 # The Ratatouille effect: replication is authenticity
 
@@ -24,11 +28,11 @@ are accustomed
 
 ### Almost invariably, replication requires intercontinental transport
 
-#### Unsound from an environmental perspective
+1. Unsound from an environmental perspective
 
-#### Expensive
+2. Expensive
 
-#### Quality always suffers from transport
+3. Quality always suffers from transport
 
 # Transplanted cuisine: an example from Chinese food
 
