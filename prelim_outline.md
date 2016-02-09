@@ -23,7 +23,7 @@ Pixar's _Ratatouille_, when the harsh reviewer is taken back to his childhood by
 
 Slight changes in flavor, texture, taste lead to judgment as "close but not quite there"
 
-# 3. Transplanted cuisine: an example from Chinese food
+# 2. Transplanted cuisine: an example from Chinese food
 
 ### Most important transplanted cuisine today
 
@@ -46,7 +46,11 @@ Chinatowns started by immigrants from Canton, later waves from different provinc
 
 + Ristorante Cinese, with traditional Italian serving structure of noodles first, then meat, with no parallels in actual Chinese cuisine
 
-### Low cost trap limits quality
++ Reverse adaptation: Kentucky fried chicken tastes different in America vs in China
+
+### Current state of Chinese food in America misses the broader context worldwide
+
+#### Low cost trap limits quality
 
 + Not possible to have a fine-dining experience. 
 
@@ -62,16 +66,141 @@ Chinatowns started by immigrants from Canton, later waves from different provinc
 
 + Half of the world's population can't get a fancy meal based on their own food, in the West
 
-# 4. Replication vs. local sourcing
+# 3. Drawbacks of Replication
 
-### Is replication even physically possible? 
+### Physically impossible?
 
-+ different ingredients
-+ different climate
+Different ingredients
 
-### Almost invariably, replication requires intercontinental transport
+Different climate
+
+### Requires intercontinental transport
 
 + Unsound from an environmental perspective
 + Expensive
-+ Quality always suffers from transport
++ Quality and freshness always suffer
+
+### Precludes innovation
+
+Same, boring, lowest-common denominator, demand-driven ethnic food
+
+"I feel like sushi today", etc. Focuses on the "what" of food, not its quality
+
+### Canon of particular dishes
+
+Little exposure given to parts of China with few immigrants here.
+
+Muslims in the northwest: lamb dishes
+
+Manchuria
+
+Ethnic minorities (hundreds of millions of people)
+
+#### No recognition of influences Chinese culture has had on other foods
+
+Ketchup is Cantonese fish sauce from the 19th century. Ke = tomato; Jep = sauce.
+
+
+# 4. Local, sustainable sourcing: example from New England
+
+### Most important current food trend
+
+Unifies environmental protection and highest quality  
+
+Local does not imply sustainable, but we want both
+
+Demand driven: by using best ingredients, get best taste in food
+
+#### Environmental sustainability
+
+Managing resources in a way that preserves current and future food supply
+
+Example of fisheries in the Gulf of Maine: cooperation between states, feds, Canada
+
+#### Freshest ingredients
+
+Highest quality, particularly seafood
+
+Fish and shellfish from the ocean served same day at restaurants
+
+#### Reduction of transport costs
+
+Economic cost
+
+Environmental damage
+
+Complexities of global warming argument: half-filled pickup truck driving to farmer's market is worse than a large train or ship
+
+### What is local?
+
+Gulf of Maine seafood, unified management with other states and Canada
+
+Radius of a couple of hundred km for land-based farms
+
+### When is local important and desirable?
+
+Minimize negative environmental impact
+
+But the local environment can't supply everything, and we have good transport infrastructure
+
+#### Perishable ingredients
+
+Anything that requires air transport to maintain freshness is bad for the environment, expensive, etc.
+
+#### Things that can be shipped slowly are fine
+
+No penalty for sending dried rice on a ship from Thailand, when it takes weeks and incurs negligible environmental impact
+
+Dried spices, etc. 
+
+No worse than getting a computer shipped from China
+
+Arguably better than trying to grow rice in a place in the wrong climate, too little water, etc.
+
+
+# 5. Authentic, locally-sourced transplanted cuisine: application to Cantonese
+
+### Ethnic food and identity politics
+
+I can only talk about Chinese food without incurring the wrath of the PC police
+
+Notions of cultural hegemony, misappropriation, 
+
+### Focus on Cantonese cuisine
+
+Generally regarded as the most food-centric part of China
+
+Climate and environment give largest access to widest variety of ingredients
+
+Economic priority to focus on food
+
+My mother is from Hong Kong
+
+"If the back faces the sky, man has an obligation to eat it"
+
+"We eat everything with four legs but the table"
+
+### Conceptual foundations of Cantonese cuisine
+
++ Take the best ingredients, do the least damage 
+
++ Rice as main carbohydrate (not wheat, noodles, etc.)
+
++ Trinity of flavoring: ginger, garlic, scallions
+
+### Beyond replication: innovation with science and technology
+
+Understanding traditional cooking methods, extracting the physics of the process
+
+Apply to locally-sourced ingredients in a manner compatible with the flavor profile
+
+Result certainly better than replication or what is available in America
+
+May inform the original, and provide ways to improve the food back home
+
+Win-win: no compromises in terms of environmental sustainability or quality
+
+No free lunch, though: may require more expense, time, or other costs
+
+
 
